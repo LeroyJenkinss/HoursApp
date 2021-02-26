@@ -36,7 +36,7 @@ public class ProjectDataExtraction{
 	     
 	      
 	
-	      c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres", "IAmTheMacDaddy");
+	      c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres", "");
 	
 	//     c.setAutoCommit(false);
 	
