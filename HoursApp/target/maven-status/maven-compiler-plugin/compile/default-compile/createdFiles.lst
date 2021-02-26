@@ -1,0 +1,6 @@
+com\example\restservice\GreetingController.class
+com\example\restservice\Greeting.class
+com\example\projectInfo\ProjectContentController.class
+com\example\projectInfo\ProjectDataExtraction.class
+com\example\RestServiceApplication.class
+com\example\projectInfo\ProjectContent.class
